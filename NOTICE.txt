@@ -1,4 +1,4 @@
-Calc_Iteration_Code
+Calc Iteration Code
 Copyright 2021 FrozenRose
 
 Sources used:
