@@ -6,3 +6,5 @@ To use, first change all "PathToFile" like mentions to their appropiate files. S
 When generating, set your desired knockback value, which will be used to find the percent at which the selected move will deal that amount of knockback. It already takes into account character specific knockback multipliers and damage multipliers as specified in the Character Attribute Data spreadsheet. Other values to set are freshness/staleness multiplier of the move also in the defined function, rage via keyword arguments when calling a function, and shorthop multiplier via keyword arguments when calling a function.
 
 Lastly, input your desired move using "MD.LP['Move Name Here']". At the botttom of "Calc_Iteration_Code.py" is a print call that will print all of the move names to the IDLE.
+
+Required external modules for running are pandas and xlsxwriter. 
