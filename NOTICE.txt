@@ -1,0 +1,7 @@
+Calc_Iteration_Code
+Copyright 2021 FrozenRose
+
+Sources used:
+Move data retrived from The KuroganeHammer.com API (https://github.com/Frannsoft/FrannHammer).
+Copyright (c) 2016 Frannsoft. 
+Under the MIT License (MIT).
