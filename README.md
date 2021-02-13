@@ -1,5 +1,5 @@
 # SSBU-ICs-Calc-Code
-For coding projects spawned from ICcord and furthering resources and meta.
+Coding project spawned from ICcord for furthering resources and meta.
 
 To use, first change all "PathToFile" like mentions to their appropiate files. Such as attribute data to "Character_Attribute_Data.xlsx" and Output spreadsheet to a folder and file name of your desire. There is also a dump file of the KuroganeHammer API data that needs to be set or commented out to run. The dump file is useful for getting a look at what data you are using and to understand how the data is conatined if you wish to modify the code. 
 
